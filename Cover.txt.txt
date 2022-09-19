@@ -1,0 +1,61 @@
+Name: Jacob Dean
+Student ID: 20046542
+Username: psxjd13
+
+Website URL: http://mersey.cs.nott.ac.uk/~psxjd13/courseworkfinal/login.php
+
+References:
+
+Form Validation confirmation box: https://www.w3schools.com/jsref/met_win_confirm.asp
+
+Form Validation empty values: https://www.w3schools.com/js/js_validation.asp
+
+For importing functions from another php file: https://stackoverflow.com/questions/8104998/how-to-call-function-of-one-php-file-from-another-php-file-and-pass-parameters-t/31890917
+
+mvp.css file as a design foundation: https://andybrewer.github.io/mvp/
+
+To prevent a Flash of Unstyled Content: https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content/43823506
+
+List of included files:
+
+addfine.php
+addfineaction.php
+addperson.php
+addpersonaction.php
+addreport.php
+addreportaction.php
+addtask.php
+addtaskaction.php
+addvehicle.php
+addvehicleaction.php
+changepassword.php
+changepasswordaction.php
+createaccount.php
+createaccountaction.php
+databasecode.sql
+deletepersonaction.php
+deletereportaction.php
+deletetaskaction
+deletevehicleaction.php
+editperson.php
+editreport.php
+editvehicle.php
+functions.php
+home.php
+login.php
+loginaction.php
+mvp.css
+police_logo.png
+searchperson.php
+searchreport.php
+searchvehicle.php
+psxjd13_Technical.pdf
+psxjd13_UserManula.pdf
+psxjd13-20046542_CW2_cover.txt
+
+
+
+
+
+
+
